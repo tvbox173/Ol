@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:4
+#EXT-X-VERSION:3
+#EXT-MEDIA-SEQUENCE:0
+#EXTINF:4,
+https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/Son.Of.A.Rich.2019-id.srt
+#EXT-X-ENDLIST
