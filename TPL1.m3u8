@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=6610799,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:BANDWIDTH=6610799,CODECS="avc1.10.30,mp4a.40.2",RESOLUTION=1920x1080
 https://www.livedoomovies.com:4432/02_PremierHD1_1080p/chunklist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
@@ -8,5 +8,5 @@ https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 https://www.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=694272,CODECS="avc1.77.41,mp4a.40.2",RESOLUTION=768x432
 https://www.livedoomovies.com:4432/02_PremierHD1_432p/chunklist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=630000,CODECS="avc1.44.30,mp4a.40.2",RESOLUTION=640x360
+#EXT-X-STREAM-INF:BANDWIDTH=800000,CODECS="avc1.33.30,mp4a.40.2",RESOLUTION=640x360
 https://www.livedoomovies.com:4432/02_PremierHD1_360p/chunklist.m3u8
